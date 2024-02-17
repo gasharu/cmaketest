@@ -1,7 +1,0 @@
-D:/mygit/cmaketest/b3/CMakeFiles/Tutorial.dir
-D:/mygit/cmaketest/b3/CMakeFiles/edit_cache.dir
-D:/mygit/cmaketest/b3/CMakeFiles/rebuild_cache.dir
-D:/mygit/cmaketest/b3/MathFunctions/CMakeFiles/MathFunctions.dir
-D:/mygit/cmaketest/b3/MathFunctions/CMakeFiles/SqrtLibrary.dir
-D:/mygit/cmaketest/b3/MathFunctions/CMakeFiles/edit_cache.dir
-D:/mygit/cmaketest/b3/MathFunctions/CMakeFiles/rebuild_cache.dir
