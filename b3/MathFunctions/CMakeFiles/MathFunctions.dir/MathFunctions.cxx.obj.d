@@ -1,0 +1,30 @@
+MathFunctions/CMakeFiles/MathFunctions.dir/MathFunctions.cxx.obj: \
+ D:\mygit\cmaketest\MathFunctions\MathFunctions.cxx \
+ D:\mygit\cmaketest\MathFunctions\MathFunctions.h \
+ D:/mygit/mingw64/include/c++/13.2.0/cmath \
+ D:/mygit/mingw64/include/c++/13.2.0/bits/requires_hosted.h \
+ D:/mygit/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++config.h \
+ D:/mygit/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/os_defines.h \
+ D:/mygit/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/cpu_defines.h \
+ D:/mygit/mingw64/include/c++/13.2.0/bits/cpp_type_traits.h \
+ D:/mygit/mingw64/include/c++/13.2.0/ext/type_traits.h \
+ D:/mygit/mingw64/x86_64-w64-mingw32/include/math.h \
+ D:/mygit/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ D:/mygit/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+ D:/mygit/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ D:/mygit/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ D:/mygit/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ D:/mygit/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ D:/mygit/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ D:/mygit/mingw64/include/c++/13.2.0/bits/std_abs.h \
+ D:/mygit/mingw64/x86_64-w64-mingw32/include/stdlib.h \
+ D:/mygit/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+ D:/mygit/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
+ D:/mygit/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
+ D:/mygit/mingw64/x86_64-w64-mingw32/include/limits.h \
+ D:/mygit/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ D:/mygit/mingw64/include/c++/13.2.0/stdlib.h \
+ D:/mygit/mingw64/x86_64-w64-mingw32/include/malloc.h \
+ D:/mygit/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
+ D:/mygit/mingw64/x86_64-w64-mingw32/include/errno.h \
+ D:\mygit\cmaketest\MathFunctions\mysqrt.h

@@ -1,0 +1,2 @@
+D:\mygit\mingw64\bin\ar.exe qc libSqrtLibrary.a CMakeFiles/SqrtLibrary.dir/mysqrt.cxx.obj
+D:\mygit\mingw64\bin\ranlib.exe libSqrtLibrary.a
